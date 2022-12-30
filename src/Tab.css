@@ -1,0 +1,29 @@
+.main-video-div{
+    max-width: 100%;
+
+    
+}
+
+.video-data-div{
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    
+}
+.title-div{
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+
+}
+.slideArrow{
+  max-width: 30px;
+  max-height: 25px;
+
+  
+}
