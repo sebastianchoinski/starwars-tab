@@ -61,7 +61,7 @@ export default function (props) {
          <p>{props.title}</p>
          <img src={arrowImg} onClick={slideVideo} className="slideArrow"></img>
          </div>
-         {isShown&&(<div className="video-data-div">
+         {isShown&&(<div className="video-data-div">test
          <table>
          
                     <tr>
